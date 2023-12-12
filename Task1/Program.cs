@@ -1,4 +1,5 @@
-﻿int[,] array = {
+﻿Console.Clear();
+int[,] array = {
             { 11, 202, 3 },
             { 40, 55, 61 },
             { 27, 90, -9 }
